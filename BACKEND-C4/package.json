@@ -1,0 +1,18 @@
+{
+  "name": "backend-c4",
+  "version": "1.0.0",
+  "description": "Tarea 4",
+  "type": "module",
+  "main": "find.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "start": "node find.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  "nodemon": "^3.1.4"
+  }
+}
